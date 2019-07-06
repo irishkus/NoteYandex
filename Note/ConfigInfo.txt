@@ -1,0 +1,4 @@
+Добавила Adhoc -- конфигурация для QA и демо-билдов.
+Указала в Preprocessor Macros ADHOC=1
+Настроила build scheme на использование конфигурации.
+В Apple Clang - Warnings - All Languges поставила часть параметров No для Release и Adhoc
